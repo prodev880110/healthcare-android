@@ -1,5 +1,5 @@
 # HMS Healthkit Demo
-English | [中文](README_ZH.md)
+English
 ## Item
 
  * [Introduction](#Introduction)
@@ -83,8 +83,6 @@ If you have any questions about the sample code, try the following:
 - Visit [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services?tab=Votes).
 Submit your questions, and tag them with `huawei-mobile-services`. Huawei experts will answer your questions.
 - Visit the HMS Core section in the [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001?ha_source=hms1) and communicate with other developers.
-
-If you encounter any issues when using the sample code, submit your [issues](https://github.com/HMS-Core/hms-health-demo-java/issues) or submit a [pull request](https://github.com/HMS-Core/hms-health-demo-java/pulls).
 
 ##  License
    The sample code is licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
